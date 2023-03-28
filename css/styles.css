@@ -141,8 +141,8 @@ body {
 }
 
 .item {
-  flex-basis: 90px;
-  height: 90px;
+  flex-basis: 89px;
+  height: 89px;
   border: 1px solid black;
   font-size: 60px;
   text-align: center;
